@@ -14,6 +14,7 @@ Correct decisions are rewarded. Wrong ones are not.
 
 ### Email States
 | State | Description |
+|-------|---------------|
 | urgent | Needs immediate reply |
 | spam | Should be ignored |
 | normal | Route to right person |
